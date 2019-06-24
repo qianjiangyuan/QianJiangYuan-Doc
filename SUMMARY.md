@@ -22,7 +22,7 @@
 * [第五章：运维日常](Chapter5/README.md)
     * [5.1: k8s操作](Chapter5/k8s.md)
     * [5.2: linux操作](Chapter5/linux.md)
-* [第六章：搭建Q&A](Chapter6/README.md)
-    * [问题一](Chapter6/q1.md)
-    * [问题二](Chapter6/q2.md)
+* [第六章：Q&A](Chapter6/README.md)
+    * [6.1:搭建Q&A](Chapter6/q1.md)
+    * [6.2: 使用Q&A](Chapter6/q2.md)
 
