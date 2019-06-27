@@ -41,11 +41,3 @@ gitbook serve
 gitbook build
 ```
 
-# 联系方式
-    
-    邮箱：qianjiangyuan@aliyun.com
-
-
-
-
-
