@@ -10,20 +10,21 @@
 
 | 数据集     | 说明 |
 | ---------- | ---- |
-| coco       |      |
+| coco       |  Common Objects in COntext，是微软团队提供的一个可以用来进行图像识别的数据集    |
 | CSM        |      |
-| dark_face  |      |
+| dark_face  |  CVPR dark face workshop的数据集，可以做黑暗环境下的人脸检测    |
 | ECSM       |      |
 | VOCdevkit  |      |
-| WIDERFACE  |      |
-| ILSVRC2012 |      |
-| ILSVRC2017 |      |
+| WIDERFACE  | [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk:8080/pascal/VOC/voc2012/index.html) |
+| ILSVRC2012 |  ImageNet国际计算机视觉挑战赛(ILSVRC) 2012年数据集   |
+| ILSVRC2015 |  ImageNet国际计算机视觉挑战赛(ILSVRC) 2015年数据集    |
+| ILSVRC2017 |  ImageNet国际计算机视觉挑战赛(ILSVRC) 2017年数据集    |
 
 /dlwsdata3/public下：
 
 | 数据集     | 说明 |
 | ---------- | ---- |
-| darkface       |      |
-| MSCOCO        |      |
+| darkface       | 同dlwsdata2下的dark_face    |
+| MSCOCO        |  同dlwsdata2下的coco    |
 | VisualGenome  |      |
 
