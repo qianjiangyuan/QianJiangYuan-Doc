@@ -1,10 +1,6 @@
 # 4.2: 集群原理
 
-webui2
-
-resffulapi
-
-jobmanager
+#### 集群框架
 
 ![图片](https://uploader.shimo.im/f/7VfvPktyVNIFvo2R.png!thumbnail)
 
@@ -13,15 +9,15 @@ jobmanager
 钱江源平台系统层面大致由4个模块组成
 
 1. MVC模块
-   - 与用户交互的前端UI
-   - 提供服务接口的RestfulAPI
+   - 与用户交互的前端UI：Web Portal
+   - 接收请求、和DB交互的后端模块：RestfulAPI
 2. 保存集群及各种状态信息的SQL server模块
 3. 任务调度模块
    - 对用户的计算任务进行调度管理的Job Manager
    - kubernetes暴露出来方便用户自定义扩展kuberneters功能的k8s Master Api
-4. 集群本身
+4. 底层集群服务器：GPU、CPU、存储节点等
 
-下面依次介绍各个子组件所负责的详细功能
+在本章节中，依次介绍各个子组件所负责的详细功能
 
 ### 1. 前端
 
