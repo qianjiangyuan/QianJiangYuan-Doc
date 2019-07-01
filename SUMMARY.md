@@ -24,6 +24,8 @@
     * [4.2: 集群原理](Chapter4/knowledge.md)
     * [4.3: WebUI](Chapter4/webportal.md)
     * [4.4: RestfulAPI](Chapter4/restfulapi.md)
+    * [4.5: DB](Chapter4/db.md)
+    * [4.6: JobManager](Chapter4/jobmanager.md)
 * [第五章：运维日常](Chapter5/README.md)
     * [5.1: k8s操作](Chapter5/k8s.md)
     * [5.2: linux操作](Chapter5/linux.md)
