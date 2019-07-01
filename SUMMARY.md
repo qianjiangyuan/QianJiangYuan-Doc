@@ -32,5 +32,9 @@
     * [5.3: Docker相关](Chapter5/Docker.md)
 * [第六章：Q&A](Chapter6/README.md)
     * [6.1:搭建Q&A](Chapter6/q1.md)
-    * [6.2: 使用Q&A](Chapter6/q2.md)
+    * [6.2:使用Q&A](Chapter6/q2.md)
+* [第七章：展望](Chapter7/README.md)
+    * [7.1:功能](Chapter7/feature.md)
+    * [7.2:生态](Chapter7/todo.md)
+
 
