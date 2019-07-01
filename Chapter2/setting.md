@@ -40,7 +40,7 @@ tips
 
 ##### Priviledged Docker
 
-是否使用特权的docker。
+是否使用特权的Docker。
 
 - use host network in container： 容器内使用物理机ip
 - user host IPC in container： 与infiniband network有关

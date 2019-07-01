@@ -74,7 +74,7 @@ Job Manager通过轮询Sql Server，查看并获取提交的job请求的详细�
 [一些k8s常用资源的介绍](https://www.yuque.com/wangsong1299/tqarhh/zoq456)
 
 集群部署的主要逻辑是：
-通过src/ClusterBootstrap/deploy.py填充集群配置，使用python的jinja2模板引擎将配置内容渲染进模板(dockerfile)，最后通过模板生成各种docker image，通过这些docker image提供了各种容器化的服务，包括创建、查看、结束计算job，集群状态查看等
+通过src/ClusterBootstrap/deploy.py填充集群配置，使用python的jinja2模板引擎将配置内容渲染进模板(Dockerfile)，最后通过模板生成各种Docker image，通过这些Docker image提供了各种容器化的服务，包括创建、查看、结束计算job，集群状态查看等
 
 
 

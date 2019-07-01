@@ -20,9 +20,9 @@
 
 - 开箱即用同时也支持用户自定义部署
 
-通过docker容器及微服务架构方便AI工程师开箱即用或根据用户需求自定义快速部署计算环境（通过下载官方发布的docker容器如tensorflow可以达到秒级部署的效果）
+通过Docker容器及微服务架构方便AI工程师开箱即用或根据用户需求自定义快速部署计算环境（通过下载官方发布的Docker容器如tensorflow可以达到秒级部署的效果）
 
-比如钱江源平台中的tensorflow docker里包括有:
+比如钱江源平台中的tensorflow Docker里包括有:
 
 1. 所有的tensorflow所需的二进制包，如curl、libpng、libzmq、zip等
 2. Python(带有pip工具，jypyer、numpy、scipy、sklean...)
