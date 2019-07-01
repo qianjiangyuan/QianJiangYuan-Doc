@@ -29,3 +29,17 @@ flask是python的轻量级web框架。
 
 [文档](http://docs.jinkan.org/docs/flask/)
 
+#### API接口整理
+
+和前端功能上的增删改查是一一对应的，具体待整理。
+
+提供的主要Api有以下这些
+
+- 处理前端请求
+- 创建Job
+- 获得Job列表
+- 删除Job
+- 获得某个Job的详情
+- 获得集群的状态
+- 批准Job...
+
