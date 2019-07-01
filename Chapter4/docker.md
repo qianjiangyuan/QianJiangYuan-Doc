@@ -15,7 +15,7 @@
 
 <center>容器技术与传统虚拟机优势对比</center>
 
-![1561977772551](C:\Users\HI\AppData\Roaming\Typora\typora-user-images\1561977772551.png)
+![1561977854361](C:\Users\HI\AppData\Roaming\Typora\typora-user-images\1561977854361.png)
 
 <center>docker构建、分发、运行流程</center>
 
