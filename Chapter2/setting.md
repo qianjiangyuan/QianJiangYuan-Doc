@@ -23,7 +23,7 @@
 
 tips 
 
-1. 如我们常用的pod内的公共资源路径/dlwsdata3/public，其实对应的是物理机上的/dlwsdata/dlwsdata3/public目录上，而在gpu物理机上，/dlwsdata/dlwsdata3的路径其实挂载的是qjy-stors1上的某一个目录，存储节点都是单独的。
+1. 如我们常用的pod内的公共资源路径/dlwsdata3/public，其实对应的是物理机上的/dlwsdata/dlwsdata3/public目录上，而在gpu物理机上，/dlwsdata/dlwsdata3的路径其实挂载的是qjy-stores1上的某一个目录，存储节点都是单独的。
 2. 除非有特殊需求，一般不用改动。
 
 ##### HyperParameter Turning 

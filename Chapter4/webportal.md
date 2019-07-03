@@ -4,7 +4,7 @@
 
 采用了asp.net core2.0的框架，在前端实现上使用了angularJS，jQuery，bootstrap来进行了功能和样式的完善。
 
-asp.net core2.0是MVC的结构，View曾进行视图的渲染，Controller层进行逻辑的控制，Model层更像是interface，定义了几个模型的字段，来规范http请求接口的输入输出。
+asp.net core2.0是MVC的结构，View层进行视图的渲染，Controller层进行逻辑的控制，Model层更像是interface，定义了几个模型的字段，来规范http请求接口的输入输出。
 
 前端模块实现功能：
 

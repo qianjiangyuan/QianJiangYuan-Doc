@@ -14,11 +14,9 @@
 | 操作系统覆盖 |                支持Linux、Windows、Mac等                 |            仅仅Kernel所支持的OS            |
 
 <center>容器技术与传统虚拟机优势对比</center>
-
-![img](https://uploader.shimo.im/f/Az68YMmtTBY5eOf9.png!thumbnail)
+<div align=center><img src="..\images\docker.png"/></div>
 
 <center>docker构建、分发、运行流程</center>
-
 ​			通过编写dockerfile构建docker镜像，再将相关镜像推送到Docker官方仓库或者私有仓库，使用时只要从云端仓库中拉取目标镜像到本地即可一键部署使用。这非常简单，最棒的是应用每次都运行在完全一致的环境中，无需担心主机是否运行了相关环境，因为它是在镜像内部安装的。
 
 ​		以钱江源的WebUI服务作为例，以下Dockerfile描述了WebUI服务所需要生成的环境依赖，如Flask,dotnet等，同时也指明了服务的工作路径workdir /usr/webPortal,在开发机上运行带build参数的docker镜像构建语句，将生成包含有WebUI应用及其依赖的目标镜像,将镜像推送（push）到私有云端仓库保存后，在其他主机节点上可以通过拉取（pull）云端镜像到本地，执行docker run语句根据镜像构建docker 容器运行应用，而不需要再配置环境。
