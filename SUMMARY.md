@@ -29,7 +29,7 @@
     * [4.7: K8s](Chapter4/k8s.md)
     * [4.8: machines](Chapter4/machine.md)
     * [4.9: Docker](Chapter4/docker.md)
-    * [4.10：集群监控方案](Chapter4/gpuMonitor)
+    * [4.10：集群监控方案](Chapter4/gpuMonitor.md)
 * [第五章：运维日常](Chapter5/README.md)
     * [5.1: k8s操作](Chapter5/k8s.md)
     * [5.2: linux操作](Chapter5/linux.md)
