@@ -14,6 +14,7 @@
 | 操作系统覆盖 |                支持Linux、Windows、Mac等                 |            仅仅Kernel所支持的OS            |
 
 <center>容器技术与传统虚拟机优势对比</center>
+
 <div align=center><img src="..\images\docker.png"/></div>
 <center>docker构建、分发、运行流程</center>
 ​			
