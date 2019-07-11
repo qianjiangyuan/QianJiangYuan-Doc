@@ -12,6 +12,7 @@
     * [2.4: 配置项说明](Chapter2/setting.md)
     * [2.5: 实际使用场景](Chapter2/demo.md)
     * [2.6: 公共数据集](Chapter2/data.md)
+    * [2.7: 使用技巧](Chapter2/debug.md)
 * [第三章：搭建手册](Chapter3/README.md)
     * [3.1: 准备](Chapter3/prepare.md)
     * [3.2: 搭建dev-machine](Chapter3/devMachine.md)
