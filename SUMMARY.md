@@ -20,6 +20,7 @@
     * [3.4: 处理restfulapi等应用](Chapter3/service.md)
     * [3.5: 第三方认证](Chapter3/auth.md)
     * [3.6: GPU服务器挂载](Chapter3/gpu.md)
+    * [3.7: 备份和恢复](Chapter3/backup.md)
 * [第四章：平台架构](Chapter4/README.md)
     * [4.1: 框架](Chapter4/frame.md)
     * [4.2: 集群原理](Chapter4/knowledge.md)
