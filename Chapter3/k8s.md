@@ -179,3 +179,19 @@ tips：
 /deploy.py kubectl get pods -n kube-system
 ```
 
+
+
+#### mount
+
+```
+./deploy.py mount
+```
+
+对各节点进行mount
+
+#### Deploy nvidia-device plugin
+
+```
+./deploy.py kubectl create -f https://raw.githubusercontent.com/NVIDIA/k8s-device-plugin/v1.9/nvidia-device-plugin.yml
+```
+
